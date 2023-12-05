@@ -1,1 +1,7 @@
-Fine-tuning CLIP with Product item dataset for image-text searching
+# Fine-tuned CLIP for Searching Products on Online Market
+
+# Model
+OpenAI CLIP
+
+# Dataset
+Shopee product data
