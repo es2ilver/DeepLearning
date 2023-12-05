@@ -1,7 +1,7 @@
 # Fine-tuned CLIP for Searching Products on Online Market
 
-# Model
+## Model
 OpenAI CLIP
 
-# Dataset
+## Dataset
 Shopee product data
